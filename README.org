@@ -1,0 +1,9 @@
+* claw-utils
+
+Utilities for easier autowrapping
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/borodust/claw-utils.git |
+| commit  | 28501a6                                        |
+| systems | claw-utils                                     |
+|---------+------------------------------------------------|
